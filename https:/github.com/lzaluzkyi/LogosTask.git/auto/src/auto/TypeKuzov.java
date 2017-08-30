@@ -1,0 +1,7 @@
+package auto;
+
+public enum TypeKuzov {
+	
+	SEDAN, HATCHBACK, SPORTCAR, MINIVAN, BUS, MIKROBUSS, ROADSTER, COUPE, LIMOUSINE;
+
+}
